@@ -1,8 +1,9 @@
 # Pusula_Canberk_Aykanat
 
 ## Contact Information
-Name: Canberk Aykanat 
-Email: kayra.aykanat@gmail.com
+**Name:** Canberk Aykanat  
+**Email:** [kayra.aykanat@gmail.com](mailto:kayra.aykanat@gmail.com)
+
 ## Project Overview
 
 This project involves data processing, visualization, and the application of machine learning techniques on a dataset related to medical side effects. It covers various stages of data manipulation, from handling missing values to creating machine learning models for classification purposes.
